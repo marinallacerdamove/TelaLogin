@@ -36,7 +36,7 @@ font-family:Arial, Helvetica, sans-serif;
     border: 0;
     background: transparent;
     border-bottom: 1px solid #6e6e6e;
-    color: #fff;
+    color: #707070;
     font-size: 16px;
     margin-bottom: 30px;
 }
@@ -82,7 +82,7 @@ font-family:Arial, Helvetica, sans-serif;
 .btn:hover{
     background: #b35151;
     border-radius: 5px;
-    color: #172031;
+    color: #ffffff;
 }
 .btn span{
     position: absolute;
